@@ -1,0 +1,11 @@
+# What is Pickupp Standard?
+
+With its smart logistics technology platform, Pickupp aims to provide our merchants with a complete one-stop logistics solution - from fulfillment, warehouse/storage, to last-mile and international deliveries. Pickupp Standard is our most economical local last-mile delivery service for your daily items.&#x20;
+
+## What is the difference between Pickupp One Day and Standard?
+
+<table><thead><tr><th>Key</th><th width="226.33333333333331">One Day</th><th>Standard</th></tr></thead><tbody><tr><td>Delivery Partner</td><td>SF Express</td><td>CAINIAO</td></tr><tr><td>Pricing</td><td>Starts from $32 for 1kg $13 per kg thereafter</td><td>Starts from $31 for 3kg $63 up to 10kg and $93 up to 20kg</td></tr><tr><td>MOQ Required for Free Collection</td><td>No MOQ</td><td>5 Parcel per Collection</td></tr><tr><td>Residential orders handling</td><td><p>If parcel is collected before 11am, it will be delivered on same day basis.</p><p>If parcel is collected after 11am, it will be delivered the next business day.</p></td><td>Parcel will be collected, and delivered within 2 business days.</td></tr><tr><td>Commercial orders handling </td><td>Parcel will be delivered the next business day once the parcel is collected.</td><td>Parcel will be collected, and delivered within 2 business days.</td></tr><tr><td>Loss and damage compensation</td><td>Up to HK$700 for each individual order</td><td>Up to HK$700 for each individual order</td></tr></tbody></table>
+
+### What Items or Deliveries would be Ideal for Pickupp Standard? <a href="#introduction-to-pickupps-merchant-portal" id="introduction-to-pickupps-merchant-portal"></a>
+
+Experience the convenience and affordability of our Pickupp Standard service, the ideal solution for businesses seeking reliable local delivery. With a commitment to deliver within 2 working days, Pickupp Standard is our most economical option, perfect for managing bulk shipments efficiently. Designed with businesses in mind, this service requires a minimum of 5 parcels per collection, ensuring cost-effective logistics for high-volume needs. For individual clients, we recommend our Pickupp OneDay service to bypass the minimum order quantity, providing flexibility without additional charges. Choose Pickupp Standard for seamless and budget-friendly delivery.
