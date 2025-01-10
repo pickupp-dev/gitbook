@@ -1,0 +1,15 @@
+---
+description: >-
+  In the event of adverse weather conditions, Pickupp Delivery+ has established
+  the following protocol to ensure the safety of our delivery agents and
+  maintain service continuity.
+---
+
+# Adverse Weather Protocol
+
+<table><thead><tr><th width="278">Rainstorm Warning System</th><th>Pickupp Delivery+ Adverse Weather Protocol</th></tr></thead><tbody><tr><td>Amber </td><td>All Orders may experience delays, but are anticipated to be delivered or returned on the scheduled date.</td></tr><tr><td>Red / Black</td><td><p><strong>Order Status: Contacting Agent/ Order Accepted</strong><br></p><p><strong>The warning is lifted before 1pm</strong></p><p>Delivery services will resume 4 hours post-interruption, however, agent matching cannot be assured.</p><p><br><strong>The warning is lifted after 1pm</strong><br>Orders placed on hold due to Red or higher-level warnings in effect at 1pm may be subject to automatic cancellation.<br><br><strong>Order Status: Enroute/ Unable to Deliver</strong><br><br><strong>The warning is lifted before 1pm</strong><br>The agent will deliver the order when safe, but delivery is not guaranteed. If weather delays occur, the agent will hold the parcel and deliver to the consignee or return to merchant once conditions improve, either later that day or the next.<br><br><strong>The warning is lifted after 1pm</strong><br>The agent will deliver the order when safe, but delivery is not guaranteed. If weather delays occur, the agent will hold the parcel and deliver to the consignee or return to merchant once conditions improve or the next day.</p></td></tr></tbody></table>
+
+
+
+<table><thead><tr><th width="278">Typhoon Signal</th><th>Pickupp Delivery+ Adverse Weather Protocol</th></tr></thead><tbody><tr><td>Standby Signal No. 1 &#x26; <br>Strong Wind Signal No. 3</td><td>All Orders may experience delays, but are anticipated to be delivered or returned on the scheduled date.</td></tr><tr><td>No. 8 Gale or Storm Signal, <br>Increasing Gale or Storm Signal No. 9, &#x26;<br>Hurricane Signal No. 10</td><td><p><strong>Order Status: Contacting Agent/ Order Accepted</strong><br><br><strong>The Signal is lifted before 1pm</strong></p><p>Delivery will be resumed in 4 hours but agent matching is not guaranteed.</p><p><br><strong>The Signal is lifted after 1pm</strong><br>Orders on hold due to no. 8 or above typhoon signals issued by 1pm may be auto-cancelled if unmatched.<br><br><strong>Order Status: Enroute/ Unable to Deliver</strong><br><br><strong>The Signal is lifted before 1pm</strong><br>The agent will deliver the order when safe, but delivery is not guaranteed. If weather delays occur, the agent will hold the parcel and deliver to the consignee or return to merchant once conditions improve, either later that day or the next.<br><br><strong>The Signal is lifted after 1pm</strong><br>The agent will deliver the order when safe, but delivery is not guaranteed. If weather delays occur, the agent will hold the parcel and deliver to the consignee or return to merchant once conditions improve or the next day.</p></td></tr></tbody></table>
+
