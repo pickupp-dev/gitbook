@@ -26,38 +26,38 @@ This mobile app is used by Delivery Agents or Drivers to view, accept, swap and 
 
 
 
-You can easily move between Fleet Portal and Merchant Portal with a click of a button, please see [Fleet Portal <--> Merchant Portal Link](merchant-portal/creating-and-managing-orders.md#fleet-portal-less-than-greater-than-merchant-portal-link).
+You can easily move between Fleet Portal and Merchant Portal with a click of a button, please see [Fleet Portal <--> Merchant Portal Link](../merchant-portal/creating-and-managing-orders.md#fleet-portal-less-than-greater-than-merchant-portal-link).
 
 ## Complete these steps to start using FMS
 
 1. **Obtain an account for Merchant Portal**: Administrators need to access Pickupp's Merchant Portal (MP). You can create an account following the steps in:&#x20;
 
-{% content-ref url="getting-started/sign-up-and-log-in-to-merchant-portal.md" %}
-[sign-up-and-log-in-to-merchant-portal.md](getting-started/sign-up-and-log-in-to-merchant-portal.md)
+{% content-ref url="../getting-started/sign-up-and-log-in-to-merchant-portal.md" %}
+[sign-up-and-log-in-to-merchant-portal.md](../getting-started/sign-up-and-log-in-to-merchant-portal.md)
 {% endcontent-ref %}
 
 2. **Create an account on Fleet Portal**: Follow the steps here on:
 
-{% content-ref url="getting-started/sign-up-and-log-in-to-fleet-portal.md" %}
-[sign-up-and-log-in-to-fleet-portal.md](getting-started/sign-up-and-log-in-to-fleet-portal.md)
+{% content-ref url="../getting-started/sign-up-and-log-in-to-fleet-portal.md" %}
+[sign-up-and-log-in-to-fleet-portal.md](../getting-started/sign-up-and-log-in-to-fleet-portal.md)
 {% endcontent-ref %}
 
 3. **Creating Fleet Service Connection between merchant and fleet:** Enable the merchant to easily place orders with the fleet, facilitating efficient and streamlined order management processes.
 
-{% content-ref url="getting-started/creating-fleet-service-connection.md" %}
-[creating-fleet-service-connection.md](getting-started/creating-fleet-service-connection.md)
+{% content-ref url="../getting-started/creating-fleet-service-connection.md" %}
+[creating-fleet-service-connection.md](../getting-started/creating-fleet-service-connection.md)
 {% endcontent-ref %}
 
 4. **Setup Delivery Agent profiles on Fleet Portal**: Each Delivery Agent needs to sign up and have a profile within the system. Please refer to:
 
-{% content-ref url="getting-started/creating-delivery-agents-on-fleet-portal.md" %}
-[creating-delivery-agents-on-fleet-portal.md](getting-started/creating-delivery-agents-on-fleet-portal.md)
+{% content-ref url="../getting-started/creating-delivery-agents-on-fleet-portal.md" %}
+[creating-delivery-agents-on-fleet-portal.md](../getting-started/creating-delivery-agents-on-fleet-portal.md)
 {% endcontent-ref %}
 
 5. **Onboard each Delivery Agent onto Delivery Agent App:** Each Delivery Agent also needs to have access to the Delivery Agent App for them to view, accept, swap and complete orders. Follow the steps listed in:
 
-{% content-ref url="getting-started/onboarding-delivery-agents-on-delivery-agent-app.md" %}
-[onboarding-delivery-agents-on-delivery-agent-app.md](getting-started/onboarding-delivery-agents-on-delivery-agent-app.md)
+{% content-ref url="../getting-started-on-delivery-agent-app/onboarding-delivery-agents.md" %}
+[onboarding-delivery-agents.md](../getting-started-on-delivery-agent-app/onboarding-delivery-agents.md)
 {% endcontent-ref %}
 
 Feel free to contact the Pickupp support team if you have any questions.
