@@ -13,7 +13,7 @@ description: 以下提供了創建Pickupp Express訂單的詳細指南。
 * [新加坡](https://sg.pickupp.io/en/)
 * [馬來西亞](https://my.pickupp.io/en/)
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-10 at 1.30.01 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-10 at 1.30.01 PM (1).png" alt=""><figcaption></figcaption></figure>
 
 2. 在右上角找到「[登入](https://portal.hk.pickupp.io/login?_gl=1*kyrxjk*_gcl_aw*R0NMLjE3MTI2NTAyNTEuQ2owS0NRand6dE93QmhEN0FSSXNBUERLbmtCUmlUYUlUdzdJalNLNlpaVVVlX3IwenNXTExNaTVzeVVhWkNVSng4NE5aU0xQYVBTU19RNGFBa3N5RUFMd193Y0I.*_gcl_au*MTc1OTE3NTY2OC4xNzEyMTEzNzU2)」按鈕。
 3. 選擇「個人」 或「企業」， 然後按「下一步」。

@@ -8,7 +8,7 @@ description: 加快配對速度
 
 如果訂單無法匹配您可以使用我們的「添加小費」功能，加快匹配機會。
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 * 您可以在「所有訂單」中找到此功能。點擊您想加快匹配的訂單（檢視功能應顯示在右側）。&#x20;
 * 此功能允許用戶選擇給散工添加小費，增加他們接受訂單的可能性。&#x20;
