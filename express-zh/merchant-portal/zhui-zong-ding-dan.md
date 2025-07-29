@@ -13,7 +13,7 @@ description: 下面提供了追蹤訂單的詳細指南
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 2. 於主頁查看「單號」： 點擊左側的列表「查看所有訂單」以查看所有訂單狀態
-3. 然後點擊「速遞訂單」以查看已建立的Express / Express Plus訂單
+3. 然後點擊「速遞訂單」以查看已建立的Express / ExpressPlus訂單
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 

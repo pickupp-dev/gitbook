@@ -4,35 +4,6 @@ description: 以下提供了創建Pickupp Express訂單的詳細指南。
 
 # 創建和安排Express/Express Plus訂單
 
-## 創建帳號
-
-1. 登陸Pickupp網站.
-
-* [香港](https://hk.pickupp.io/)
-* [台灣](https://tw.pickupp.io/zh/)
-* [新加坡](https://sg.pickupp.io/en/)
-* [馬來西亞](https://my.pickupp.io/en/)
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-10 at 1.30.01 PM (1).png" alt=""><figcaption></figcaption></figure>
-
-2. 在右上角找到「[登入](https://portal.hk.pickupp.io/login?_gl=1*kyrxjk*_gcl_aw*R0NMLjE3MTI2NTAyNTEuQ2owS0NRand6dE93QmhEN0FSSXNBUERLbmtCUmlUYUlUdzdJalNLNlpaVVVlX3IwenNXTExNaTVzeVVhWkNVSng4NE5aU0xQYVBTU19RNGFBa3N5RUFMd193Y0I.*_gcl_au*MTc1OTE3NTY2OC4xNzEyMTEzNzU2)」按鈕。
-3. 選擇「個人」 或「企業」， 然後按「下一步」。
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-10 at 5.21.46 PM.png" alt=""><figcaption></figcaption></figure>
-
-4. 輸入您的個人詳細信息，包括您的姓名、電話號碼、電子郵件和密碼
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-10 at 5.26.22 PM.png" alt=""><figcaption></figcaption></figure>
-
-5. 同意條款與條件
-
-* 在完成註冊過程之前，您將被顯示條款與條件（T\&C）。&#x20;
-* 仔細閱讀條款與條件，如果您同意，請選擇表示您接受的複選框。&#x20;
-
-6. 在檢閱並接受條款與條件後，點擊「註冊」按鈕以創建您的帳戶。
-7. 系統將處理您的註冊請求，並在成功註冊後，您將需要通過電子郵件檢查來啟用您的帳戶。
-8. 按照這些步驟，您將成功創建您的商戶門戶帳戶。一旦您的帳戶設置完成，您可以開始利用商戶門戶的多樣功能來有效管理您的帳戶。
-
 ## 輸入訂單資料
 
 1. 登錄後，請在儀表板左側的列表中選擇「訂單」，然後選擇左側的「建立速遞訂單」。
@@ -62,8 +33,8 @@ description: 以下提供了創建Pickupp Express訂單的詳細指南。
 
 1.  選擇「貨品準備好的時間」。
 
-    * 「現在」- 下單後立即進入匹配流程。
-    * 「稍後」- 根據您的取件時間進行匹配
+    * 「現在」- 下單後立即進入配對流程。
+    * 「稍後」- 根據您的取件時間進行配對
 
 
 
@@ -71,13 +42,9 @@ description: 以下提供了創建Pickupp Express訂單的詳細指南。
 
 2. 非強制項目，可以填寫「額外要求」。
    * 「添加詳細信息」- 輸入您想要傳達給送貨夥伴的信息。
-   * 「商戶自訂編好」- 輸入您公司內部此項目的訂單號碼，以便未來跟踪。
+   * 「商戶自訂編好」- 輸入您公司內部此項目的訂單號碼，以便未來追蹤。
    * 「貨到付款金額」- 送貨夥伴將在交貨時從收件人那裡收取您輸入的金額。
    * 「額外通知聯繫人」- 您可以添加兩個額外的聯繫人。
-   * 點擊“送貨代理匹配保證”，如果需要更快匹配送貨代理。
-   * 更多信息請參閱常見問題解答-送貨代理匹配保證。
-
-*
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-22 at 9.16.38 AM.png" alt=""><figcaption></figcaption></figure>
 
@@ -88,10 +55,10 @@ description: 以下提供了創建Pickupp Express訂單的詳細指南。
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-22 at 9.12.44 AM.png" alt=""><figcaption></figcaption></figure>
 
-5. Confirm the Entered Data.
-   * Confirm if information such as "Sender/Recipient/Package Size" is entered correctly. If the order is confirmed without errors, proceed to the order overview & checkout page.
-6. Order Overview & Checkout.
-   * This page provides an overview of your order; please double-check information such as "Sender/Recipient/Package Size" before proceeding.
+5. 確認輸入的資料。
+   * 請確認「寄件人/收件人/包裹尺寸」等資訊是否輸入正確。如果訂單確認無誤，請繼續前往訂單概覽和結帳頁面。 &#x20;
+6. 訂單總覽和結帳。
+   * 此頁面提供您訂單的概覽；請在繼續之前仔細檢查「寄件人/收件人/包裹尺寸」等資訊。
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-22 at 9.18.20 AM.png" alt=""><figcaption></figcaption></figure>
 
@@ -119,22 +86,12 @@ description: 以下提供了創建Pickupp Express訂單的詳細指南。
 * 準備包裹並在包裹上標記系統給出的訂單號碼。
 * &#x20;請參考“[追蹤訂單](zhui-zong-ding-dan.md)”以查找訂單號碼。
 
-## 無法匹配速遞員
+## 無法配對送貨夥伴
 
-1. 未能在預期的時間內匹配速遞員，尋找匹配人員超出預期時間
+1. 未能在預期的時間內配對送貨夥伴，尋找匹配人員超出預期時間
 
 * 不成功不收費 - 系統將自動取消訂單並將金額退還至您的帳戶。
 
 2. 超重或超大的包裹
 
-* 如果速遞夥伴接受了訂單，並在抵達送貨地點時，尺寸或重量超出了約定的限制，則速遞夥伴可能會拒絕接受該訂單。
-
-
-
-## 速遞夥伴匹配保證
-
-1. 提高您的訂單匹配率
-2. 當下單時點擊“送貨代理匹配保證”將自動提高價格，增加與送貨夥伴匹配的機會。
-
-* 如果您選擇增加單位價格，將出現一個合作夥伴匹配聲明。
-* 確認並前往“下一步”
+* 如果送貨夥伴接受了訂單，並在抵達送貨地點時，發現尺寸或重量超出了約定的限制，則送貨夥伴可能會拒絕接受該包裹。
