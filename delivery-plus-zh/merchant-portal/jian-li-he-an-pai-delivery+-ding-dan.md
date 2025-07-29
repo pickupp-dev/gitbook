@@ -49,7 +49,7 @@ description: 以下為建立Delivery+訂單詳細指南。
 
 
 
-請注意：系統價格只考慮配送距離，未包括完成額外任務所需時間。1⃣️下章節討論如何[「添加小費](tian-jia-xiao-fei-yi-jia-su-su-di-zhuan-yuan-pi-pei.md)」，進一步說明一個公平合理報價，以促使自由業者接受。
+請注意：系統價格只考慮配送距離，未包括完成額外任務所需時間。1⃣️下章節討論如何[「添加小費](tian-jia-xiao-fei-yi-jia-kuai-pei-dui-song-huo-huo-ban.md)」，進一步說明一個公平合理報價，以促使自由業者接受。
 
 ## 安排你的Delivery+訂單
 
