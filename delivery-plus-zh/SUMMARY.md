@@ -11,7 +11,7 @@
 * [建立和安排Delivery+訂單](merchant-portal/jian-li-he-an-pai-delivery+-ding-dan.md)
 * [建立公平報價](merchant-portal/jian-li-gong-ping-bao-jia.md)
 * [Delivery+如何計算訂單費用?](merchant-portal/delivery+-ru-he-ji-suan-ding-dan-fei-yong.md)
-* [添加小費以加快配對自由工](merchant-portal/tian-jia-xiao-fei-yi-jia-kuai-pei-dui-zi-you-gong.md)
+* [添加小費以加快配對自由工](merchant-portal/tian-jia-xiao-fei-yi-jia-su-su-di-zhuan-yuan-pi-pei.md)
 * [追蹤訂單](merchant-portal/zhui-zong-ding-dan.md)
 * [增值錢包或信用卡連結](merchant-portal/zeng-zhi-qian-bao-huo-xin-yong-ka-lian-jie.md)
 
