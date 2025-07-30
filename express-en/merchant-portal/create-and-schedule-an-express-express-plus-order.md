@@ -83,7 +83,7 @@ To schedule an order, make sure you are toggled to "Expert Mode", which can be c
 
 10. Package Details.
     * Prepare the package and mark the order number given by the system on your package.
-    * Refer to the [Track Orders](track-orders.md) to find the order number.
+    * Refer to the [Track Orders](order-tracking-guide.md) to find the order number.
 
 ## Unable to Match with Delivery Agent&#x20;
 

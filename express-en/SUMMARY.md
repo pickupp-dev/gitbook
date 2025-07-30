@@ -10,7 +10,7 @@
 
 * [Create & Schedule an Express/Express Plus Order](merchant-portal/create-and-schedule-an-express-express-plus-order.md)
 * [Add Tips to Speed Up Agent Matching](merchant-portal/add-tips-to-speed-up-agent-matching.md)
-* [Track Orders](merchant-portal/track-orders.md)
+* [Order Tracking Guide](merchant-portal/order-tracking-guide.md)
 * [Add Credit to E-Wallet](merchant-portal/add-credit-to-e-wallet.md)
 
 ***
