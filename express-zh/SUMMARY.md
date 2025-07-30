@@ -4,7 +4,7 @@
 
 ## 開始使用
 
-* [註冊及登錄商戶平台](kai-shi-shi-yong/zhu-ce-ji-deng-lu-shang-hu-ping-tai.md)
+* [註冊及登錄Merchant Portal](kai-shi-shi-yong/zhu-ce-ji-deng-lu-merchant-portal.md)
 
 ## Merchant Portal
 
